@@ -4,11 +4,11 @@
 <radialGradient id="Gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="61.82606271832293" fx="-49.94490196078432" fy="-0.2928431372549112" gradientTransform="matrix( -0.9999828111596275, -0.005863223114360938, -0.005863223114360938, 0.9999828111596275, 85.05,181.75) " spreadMethod="pad">
 <stop  offset="0%" stop-color="#FFFFFF" stop-opacity="0.8"/>
 
-<stop  offset="100%" stop-color="#CCD7FF" stop-opacity="0.8"/>
+<stop  offset="100%" stop-color="#800080" stop-opacity="0.8"/>
 </radialGradient>
 
 <radialGradient id="Gradient_2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="31.140854395793323" fx="2.6661764705882347" fy="8.122058823529414" gradientTransform="matrix( 0.31188932315588674, 0.9501184400385894, 0.21274303896090088, -1.2238745769656354, 44.9,179.8) " spreadMethod="pad">
-<stop  offset="0%" stop-color="#FFFFFF" stop-opacity="0.2"/>
+<stop  offset="0%" stop-color="#800080" stop-opacity="0.2"/>
 
 <stop  offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
 </radialGradient>
@@ -20,7 +20,7 @@
 </radialGradient>
 
 <g id="Layer0_0_FILL">
-<path fill="#FFFFFF" stroke="none" d="
+<path fill="#800080" stroke="none" d="
 M 938.15 51.05
 Q 937.55 50.8 936.85 50.8 935.25 50.8 934.4 52.1
 L 934.4 50.95 933.2 50.95 933.2 58.75 934.5 58.75 934.5 54.5
@@ -568,7 +568,7 @@ L 250.55 182 222.1 181.95 197.1 234.15 250.6 182.1 Z"/>
 </g>
 
 <g id="Layer0_10_MEMBER_0_MEMBER_0_MEMBER_1_FILL">
-<path fill="#FF4255" stroke="none" d="
+<path fill="#800080" stroke="none" d="
 M 153.9 153.75
 L 161.85 160.4 186.55 153.75 153.9 153.75
 M 186.6 256.25
@@ -582,7 +582,7 @@ L 211.3 160.35 250.55 182 250.6 182.1 250.6 182 244.6 159.85 219.1 153.75 Z"/>
 </g>
 
 <g id="Layer0_10_MEMBER_0_MEMBER_0_MEMBER_2_FILL">
-<path fill="#C20518" stroke="none" d="
+<path fill="#800080" stroke="none" d="
 M 197.1 234.15
 L 186.6 256.25 250.6 182.1 197.1 234.15
 M 124.8 181.9
@@ -616,7 +616,7 @@ L 211.3 160.35 186.55 153.75 161.85 160.4 187.3 182 Z"/>
 </g>
 
 <g id="Layer0_10_MEMBER_0_MEMBER_0_MEMBER_5_FILL">
-<path fill="#D98EAD" stroke="none" d="
+<path fill="#800080" stroke="none" d="
 M 97.55 181.9
 L 105.9 181.9 125.8 162.4 153.9 153.75 138.15 153.75 97.55 181.9 Z"/>
 </g>
@@ -806,7 +806,7 @@ Q 360.85 196.4 347 185.4"/>
 M 500.6 274.9
 Q 507.65 298.7 535.75 294.8"/>
 
-<path id="Layer0_13_MEMBER_3_MEMBER_0_1_STROKES" stroke="#000000" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+<path id="Layer0_13_MEMBER_3_MEMBER_0_1_STROKES" stroke="#800080" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
 M 177.6 198.65
 Q 191.8 221.5 221 209.85"/>
 </defs>
