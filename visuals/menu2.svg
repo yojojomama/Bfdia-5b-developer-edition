@@ -2,13 +2,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="960px" height="1620px" viewBox="0 0 960 1620">
 <defs>
 <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="480.05" y1="11.412500000000023" x2="480.05" y2="1619.9875000000002" spreadMethod="pad">
-<stop  offset="0%" stop-color="#D8E0E2"/>
+<stop  offset="0%" stop-color="#8200ff"/>
 
 <stop  offset="32.94117647058823%" stop-color="#63808D"/>
 
 <stop  offset="68.23529411764706%" stop-color="#232E32"/>
 
-<stop  offset="100%" stop-color="#000000"/>
+<stop  offset="100%" stop-color="#8800ff"/>
 </linearGradient>
 
 <g id="Layer0_0_FILL">
