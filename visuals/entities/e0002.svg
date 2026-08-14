@@ -2,9 +2,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="128px" height="128px" viewBox="0 0 128 128">
 <defs>
 <radialGradient id="Gradient_1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="70.8375" fx="-3.5210666569337908e-15" fy="57.50338235294118" gradientTransform="matrix( 0, 0.9999999999999999, -1.3583906829010057, 0, 0,0) " spreadMethod="pad">
-<stop  offset="0%" stop-color="#FFFFFF" stop-opacity="0.8"/>
+<stop  offset="0%" stop-color="#800080" stop-opacity="0.8"/>
 
-<stop  offset="100%" stop-color="#CCD7FF" stop-opacity="0.8"/>
+<stop  offset="100%" stop-color="#800080" stop-opacity="0.8"/>
 </radialGradient>
 
 <g id="Body_Parts_Characters_Ice_Cube_Ice_Cube_Side_0_Layer0_0_FILL">
